@@ -13,28 +13,28 @@ The following Data Structures and Algorithms were covered:
   6. Heaps (Min and Max)
   7. HashMaps
   8. BSTs
-  9. Sorting
-    Brute Force
-    Bubble Sort
-    Selection Sort
-    Insertion Sort
-    Cocktail Shaker Sort
-    Merge Sort
-    Quick Sort
-    LSD Radix Sort
+  9. Sorting:
+    Brute Force,
+    Bubble Sort,
+    Selection Sort,
+    Insertion Sort,
+    Cocktail Shaker Sort,
+    Merge Sort,
+    Quick Sort,
+    LSD Radix Sort,
     Heap Sort
-  10. Pattern Matching
-    Brute Force
-    Boyer-Moore (with and wihtout Galil RUle)
-    Knut-Morris-Pratt (KMP)
-    Rabin-Karp
-  11. Graphs
-    Breadth-First Search
-    Depth First Search
-    Dijkstra's Shortest Path
-    Prim's MST
-    Kruskal's MST
-  12. Dynamic Programming
+  10. Pattern Matching:
+    Brute Force,
+    Boyer-Moore (with and wihtout Galil Rule),
+    Knut-Morris-Pratt (KMP),
+    Rabin-Karp,
+  11. Graphs:
+    Breadth-First Search,
+    Depth First Search,
+    Dijkstra's Shortest Path,
+    Prim's MST,
+    Kruskal's MST,
+  12. Dynamic Programming: 
     Longest Common Subsequence
     
   
